@@ -14,7 +14,6 @@ class PoligonoTest {
 	@Test
 	void testCalcularPerimetro() {
 		Poligono operaciones = new Poligono(null);
-		testGetLados();
 		int longitud = 10;
 		int lados=6;
 		int resultado =longitud*lados ;
